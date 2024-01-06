@@ -13,8 +13,22 @@
 - Create Sign up user account
 - Implement sign in user Api
 - created our store with userSlice
+- update profile
+- Bugfix: Sign up user displayName and profile picture update
+- Bugfix: if the user is not logged in Redirect / browse to login page and vice-versa
+- unsubscribeed to the onAuthStateChanged callback
+- Register TMTB Api get access token and create an app
+- Get data from TMDB now playing movies list API
+- custom hook for now playing movies
+- create movieSlice
+- update store with movies data
+- planning for MainContainer and secondary container
+- fetch data for trailer video
+- update store with trailer video data
+- embedded the you tube video and make it autoplay and mute
+- tailwind classes to make main container look awesome
 
-# Features
+# Features/
 - Login/Sign Up
     - Sign In/Sign up Form
     - redirect to Browse Page
