@@ -25,8 +25,14 @@
 - planning for MainContainer and secondary container
 - fetch data for trailer video
 - update store with trailer video data
-- embedded the you tube video and make it autoplay and mute
-- tailwind classes to make main container look awesome
+- Embedded the you tube video and make it autoplay and mute
+- Tailwind classes to make main container look awesome
+- Build Seconds Component
+- Build Movie List
+- Build Movie Card
+- TMDB Image CDN URL
+- Made the Browse page amazing with Tailwind CSS
+- usePopularMovies Custom hook
 
 # Features/
 - Login/Sign Up
